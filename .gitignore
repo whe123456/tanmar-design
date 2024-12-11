@@ -13,6 +13,7 @@ es
 lib
 site
 dist
+tanmar-design
 
 # test
 test/coverage

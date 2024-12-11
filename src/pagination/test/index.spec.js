@@ -1,4 +1,4 @@
-import { createLocalVue, shallowMount, mount } from '@vue/test-utils';
+import { createLocalVue, shallowMount } from '@vue/test-utils';
 import TmPagination from '../pagination.vue';
 import ElementUI from 'element-ui';
 

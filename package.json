@@ -85,5 +85,13 @@
   "jsdelivr": "lib/tanmar-design.min.js",
   "directories": {
     "doc": "docs"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whe123456/tanmar-design.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whe123456/tanmar-design/issues"
+  },
+  "homepage": "https://github.com/whe123456/tanmar-design#readme"
 }
